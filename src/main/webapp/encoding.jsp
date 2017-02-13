@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>한글테스트 혜진짱</h1>
-<h2><%= new Date %></h2>
+<h2><%= new Date() %></h2>
 
 </body>
 
